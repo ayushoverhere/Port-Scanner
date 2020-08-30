@@ -1,2 +1,2 @@
-# port-scanner-
+# simple port scanner
 a simple port scanner in python
